@@ -3,7 +3,7 @@
 <html lang="pt-br">
 <head>
   <meta charset="UTF-8">
-  <title>Vinícius Pessoa de Albuquerque</title>
+ 
 </head>
 <body>
   <h1>Vinícius Pessoa de Albuquerque</h1>
