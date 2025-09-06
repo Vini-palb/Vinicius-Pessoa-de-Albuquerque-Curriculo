@@ -1,6 +1,4 @@
 
-
-[index.html](https://github.com/user-attachments/files/22191611/index.html)
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
@@ -9,7 +7,8 @@
 </head>
 <body>
   <h1>Vinícius Pessoa de Albuquerque</h1>
-  <img src="![GAB_8527](https://github.com/user-attachments/assets/02d39d71-b62d-4822-a42a-bc4dac39b49e)" alt="Foto de perfil" width="250">
+  <img src="![GAB_8527](https://github.com/user-attachments/assets/4a1886b5-545c-451a-a4fe-ce8bcdd43fb0)"
+ alt="Foto de perfil" width="250">
 
   <h2>Informações Pessoais</h2>
   <p>Email: vpa@cesar.school</p>
