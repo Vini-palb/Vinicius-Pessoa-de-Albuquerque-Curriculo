@@ -7,7 +7,7 @@
 </head>
 <body>
   <h1>Vinícius Pessoa de Albuquerque</h1>
-  ![GAB_8527](https://github.com/user-attachments/assets/4a1886b5-545c-451a-a4fe-ce8bcdd43fb0) width="250">
+  img= "![GAB_8527](https://github.com/user-attachments/assets/4a1886b5-545c-451a-a4fe-ce8bcdd43fb0)" width="250">
 
   <h2>Informações Pessoais</h2>
   <p>Email: vpa@cesar.school</p>
